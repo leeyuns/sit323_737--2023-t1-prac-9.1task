@@ -1,0 +1,10 @@
+[Steps]
+
+pv
+pvc
+configmap
+secret
+deployment
+service
+
+-->statefulset X
